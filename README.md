@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ministrudels
-- 👀 I’m interested in data visualisation, data engineereing, and infrastructure technologies.
-- 🌱 I’m currently learning how to manipulate HTML5 canvas with d3.js.
+- 👀 I’m interested in data visualisation, full stack engineering and infrastructure technologies.
 - 📫 You can reach me at ganhuanmin@gmail.com or https://www.linkedin.com/in/huanmin-gan/.
 
 <!---
