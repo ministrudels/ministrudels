@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ministrudels
-- 👀 I’m interested in data visualisation, full stack engineering and infrastructure technologies.
+- 👀 I’m interested in data visualisation, full stack development.
 - 📫 You can reach me at ganhuanmin@gmail.com or https://www.linkedin.com/in/huanmingan/.
 
 <!---
