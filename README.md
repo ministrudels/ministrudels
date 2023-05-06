@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ministrudels
-- 👀 I’m interested in data visualisation, full stack development.
+- 👋 Hi, I'm Min. A polyglot software engineer residing in London.
 - 📫 You can reach me at ganhuanmin@gmail.com or https://www.linkedin.com/in/huanmingan/.
 
 <!---
