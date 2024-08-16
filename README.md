@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Min. A polyglot software engineer residing in London.
+- 👋 Hi, I'm Min. A software engineer living in London.
 - 📫 You can reach me at ganhuanmin@gmail.com or https://www.linkedin.com/in/huanmingan/.
 
 <!---
